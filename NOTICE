@@ -1,0 +1,41 @@
+RysUp Align Bench (RAB) and the RysUpAlign learned alignment model v6
+Copyright 2026 Rys Up Audio LLC (https://rysupaudio.com)
+
+Required Notice: Copyright 2026 Rys Up Audio LLC (https://rysupaudio.com)
+
+1. Licences in this repository
+   - Source code: MIT (LICENSE).
+   - Model weights rysupalign_learned_v6.onnx / rysupalign_learned_v6.int8.onnx (GitHub release
+     v1.0): PolyForm Noncommercial License 1.0.0 (MODEL_LICENSE.md), except the HuBERT encoder
+     weights they contain (section 2).
+     Commercial licensing of the weights is available from Rys Up Audio:
+     https://rysupaudio.com/pages/contact-us
+   - Audio in data/fury: CC BY 4.0, (c) Rys Up Audio (data/fury/README.md).
+
+2. HuBERT-base encoder (Apache License 2.0)
+   The model weights include the first 9 transformer layers (plus the convolutional feature
+   encoder) of facebook/hubert-base-ls960, revision af46f65f540dc3ca7aa59f46c6c3d5dbb4374fa8,
+   https://huggingface.co/facebook/hubert-base-ls960, licensed under the Apache License,
+   Version 2.0 (full text: LICENSES/Apache-2.0.txt). Those encoder weights remain under the
+   Apache License 2.0; the PolyForm Noncommercial terms apply only to Rys Up Audio's own
+   contribution (the AlignHead weights, the log-mel front end and the combined graph).
+   Modifications made by Rys Up Audio: layers 10-12 were removed, the remaining encoder weights
+   were frozen (not changed) and exported together with the AlignHead and a log-mel front end into
+   a single ONNX graph; rysupalign_learned_v6.int8.onnx is additionally dynamically quantised to
+   int8 with onnxruntime.
+   HuBERT: Hsu, W.-N., Bolte, B., Tsai, Y.-H. H., Lakhotia, K., Salakhutdinov, R., Mohamed, A.
+   "HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units",
+   IEEE/ACM TASLP 29, 2021. arXiv:2106.07447.
+
+3. Training data attribution
+   The AlignHead was trained on (a) Rys Up Audio's own studio vocal recordings (not distributed)
+   and synthetic / pseudo-labelled pairs derived from them, and (b) VocalSet 1.2
+   (Wilkins, J., Seetharaman, P., Wahl, A., Pardo, B., ISMIR 2018), CC BY 4.0,
+   https://doi.org/10.5281/zenodo.1442513. No benchmark audio (Choral Singing Dataset, Dagstuhl
+   ChoirSet, Cambridge-MT stems, fury takes) was used for training.
+
+4. Benchmark datasets (not redistributed here; the build scripts read your own downloads)
+   - Choral Singing Dataset, Cuesta et al. 2018, CC BY 4.0, https://doi.org/10.5281/zenodo.2649950
+   - Dagstuhl ChoirSet 1.2.3, Rosenzweig et al. 2020, CC BY 4.0, https://doi.org/10.5281/zenodo.4618287
+   - Cambridge-MT "Mixing Secrets" multitrack library (https://cambridge-mt.com/ms3/mtk/), used
+     under its own terms; no stems are included in this repository.

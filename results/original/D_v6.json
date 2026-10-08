@@ -1,0 +1,122 @@
+{
+ "D_LI_Basses_Take01_B1B2": {
+  "moved": true,
+  "seconds": null,
+  "cand": "learned+mel",
+  "median": 19.999999999999574,
+  "raw_median": 40.000000000000924,
+  "mean": 24.729729729730185,
+  "raw_mean": 50.540540540540796,
+  "n": 37
+ },
+ "D_LI_Basses_Take01_B1B4": {
+  "moved": true,
+  "seconds": null,
+  "cand": "learned+mel",
+  "median": 17.499999999998295,
+  "raw_median": 60.0000000000005,
+  "mean": 40.89285714285687,
+  "raw_mean": 71.07142857142874,
+  "n": 28
+ },
+ "D_LI_Basses_Take02_B1B2": {
+  "moved": true,
+  "seconds": null,
+  "cand": "learned+mel",
+  "median": 20.000000000000462,
+  "raw_median": 39.99999999999915,
+  "mean": 38.815789473683886,
+  "raw_mean": 53.15789473684224,
+  "n": 38
+ },
+ "D_LI_Basses_Take02_B1B4": {
+  "moved": true,
+  "seconds": null,
+  "cand": "learned+mel",
+  "median": 19.999999999999574,
+  "raw_median": 60.000000000002274,
+  "mean": 36.75675675675635,
+  "raw_mean": 75.40540540540589,
+  "n": 37
+ },
+ "D_LI_Basses_Take02_B2B4": {
+  "moved": true,
+  "seconds": null,
+  "cand": "learned+mel",
+  "median": 19.999999999997797,
+  "raw_median": 55.00000000000149,
+  "mean": 37.4999999999998,
+  "raw_mean": 70.00000000000047,
+  "n": 36
+ },
+ "D_LI_Basses_Take03_B1B2": {
+  "moved": true,
+  "seconds": null,
+  "cand": "learned+mel",
+  "median": 15.000000000000568,
+  "raw_median": 40.00000000000048,
+  "mean": 34.28571428571421,
+  "raw_mean": 60.714285714285694,
+  "n": 42
+ },
+ "D_LI_Basses_Take03_B1B4": {
+  "moved": true,
+  "seconds": null,
+  "cand": "learned+mel",
+  "median": 19.999999999999794,
+  "raw_median": 39.99999999999915,
+  "mean": 50.00000000000042,
+  "raw_mean": 64.72222222222231,
+  "n": 36
+ },
+ "D_LI_Basses_Take03_B2B4": {
+  "moved": true,
+  "seconds": null,
+  "cand": "learned+mel",
+  "median": 19.999999999999574,
+  "raw_median": 59.99999999999783,
+  "mean": 41.749999999999986,
+  "raw_mean": 66.4999999999998,
+  "n": 40
+ },
+ "D_LI_Basses_Take04_B1B2": {
+  "moved": true,
+  "seconds": null,
+  "cand": "learned+mel",
+  "median": 19.999999999999574,
+  "raw_median": 50.00000000000071,
+  "mean": 39.054054054053914,
+  "raw_mean": 61.89189189189173,
+  "n": 37
+ },
+ "D_LI_Basses_Take04_B1B3": {
+  "moved": true,
+  "seconds": null,
+  "cand": "learned+mel",
+  "median": 19.999999999999574,
+  "raw_median": 45.00000000000082,
+  "mean": 46.52173913043478,
+  "raw_mean": 61.521739130434696,
+  "n": 46
+ },
+ "D_LI_Basses_Take04_B2B3": {
+  "moved": true,
+  "seconds": null,
+  "cand": "learned+mel",
+  "median": 35.00000000000014,
+  "raw_median": 60.000000000002274,
+  "mean": 60.813953488372,
+  "raw_mean": 83.02325581395348,
+  "n": 43
+ },
+ "D_LI_Basses_Take05_B1B3": {
+  "moved": true,
+  "seconds": null,
+  "cand": "learned+mel",
+  "median": 20.00000000000157,
+  "raw_median": 49.99999999999716,
+  "mean": 48.00000000000002,
+  "raw_mean": 63.99999999999974,
+  "n": 50
+ }
+}

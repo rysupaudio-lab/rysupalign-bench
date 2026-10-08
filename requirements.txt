@@ -1,0 +1,13 @@
+# Benchmark, scorer and Python runners (tested with Python 3.13)
+numpy>=2.0
+scipy>=1.13
+soundfile>=0.12
+librosa>=0.10
+numba>=0.60
+onnxruntime>=1.18
+# Rubber Band command-line tool (https://breakfastquay.com/rubberband/) must be on PATH to build the
+# harmony / octave guides of suite S (version 4.0.0 was used).
+
+# Optional: public self-supervised baselines (runners/ssl_feats.py) and training / export (learned/)
+# torch>=2.4
+# transformers>=4.45

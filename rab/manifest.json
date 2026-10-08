@@ -1,0 +1,1862 @@
+[
+ {
+  "id": "R_ER_soprano_12",
+  "suite": "R",
+  "events": 94,
+  "tags": [
+   "choir",
+   "unison",
+   "soprano"
+  ],
+  "truth_sha256": "a3a7c9043a1b197bab85a574b1c819fd1176bdc18e7b9f94b6d7dc13d681b4ff"
+ },
+ {
+  "id": "R_ER_soprano_13",
+  "suite": "R",
+  "events": 101,
+  "tags": [
+   "choir",
+   "unison",
+   "soprano"
+  ],
+  "truth_sha256": "30c4c30b7e402b933c5b6c54fe8ac1b71f557bd9d1aa0612e1ac30d5d13c11bc"
+ },
+ {
+  "id": "R_ER_soprano_14",
+  "suite": "R",
+  "events": 103,
+  "tags": [
+   "choir",
+   "unison",
+   "soprano"
+  ],
+  "truth_sha256": "1d2ff1d10fc3b262046bc1f2cd08211a53db090e0206150d3b8e8f5150c47c6c"
+ },
+ {
+  "id": "R_ER_soprano_23",
+  "suite": "R",
+  "events": 96,
+  "tags": [
+   "choir",
+   "unison",
+   "soprano"
+  ],
+  "truth_sha256": "20f3c74763a29c76a8ab721a49fe79eb11b4ac77d569e1bfa4de8f0c5b995132"
+ },
+ {
+  "id": "R_ER_alto_12",
+  "suite": "R",
+  "events": 67,
+  "tags": [
+   "choir",
+   "unison",
+   "alto"
+  ],
+  "truth_sha256": "b57c2ce8fef2a98c1caf46a53945abbbf51f53d150c719e50bb1e7bdaa0ee7cf"
+ },
+ {
+  "id": "R_ER_alto_13",
+  "suite": "R",
+  "events": 98,
+  "tags": [
+   "choir",
+   "unison",
+   "alto"
+  ],
+  "truth_sha256": "5d97a124539f1b7cc6185359b2ae84d7c2b21c48800debdffdb46fbdb4e8a94e"
+ },
+ {
+  "id": "R_ER_alto_14",
+  "suite": "R",
+  "events": 111,
+  "tags": [
+   "choir",
+   "unison",
+   "alto"
+  ],
+  "truth_sha256": "b0f7575a704cdeb4bdb83464f0d74d6e4a10e8d2ff38e1598cb10f747bb08d74"
+ },
+ {
+  "id": "R_ER_alto_23",
+  "suite": "R",
+  "events": 80,
+  "tags": [
+   "choir",
+   "unison",
+   "alto"
+  ],
+  "truth_sha256": "49b04bbecf472f636ead3585ee156a6d208b6053ef20327bf30b81da08c20b1f"
+ },
+ {
+  "id": "R_ER_tenor_12",
+  "suite": "R",
+  "events": 99,
+  "tags": [
+   "choir",
+   "unison",
+   "tenor"
+  ],
+  "truth_sha256": "680f49c61f41ce57adac926c2dbb7fe0bb14b3907747b679e530d7ab2e97cfbc"
+ },
+ {
+  "id": "R_ER_tenor_13",
+  "suite": "R",
+  "events": 93,
+  "tags": [
+   "choir",
+   "unison",
+   "tenor"
+  ],
+  "truth_sha256": "b2e3d00ebe8c1e8d849431bd006e9b3942a154ac0a23d028b92521ac5a8a28fc"
+ },
+ {
+  "id": "R_ER_tenor_14",
+  "suite": "R",
+  "events": 77,
+  "tags": [
+   "choir",
+   "unison",
+   "tenor"
+  ],
+  "truth_sha256": "4074ba6eb1ed30637313c71c854e6926a9acca2f9eeb2ee483443830ea1fb1fa"
+ },
+ {
+  "id": "R_ER_tenor_23",
+  "suite": "R",
+  "events": 108,
+  "tags": [
+   "choir",
+   "unison",
+   "tenor"
+  ],
+  "truth_sha256": "a1b96ec828fd4ffc5e0a49568fcaebcc5f3c26620cbff2fb81eda74edc5638a5"
+ },
+ {
+  "id": "R_ER_bass_12",
+  "suite": "R",
+  "events": 81,
+  "tags": [
+   "choir",
+   "unison",
+   "bass"
+  ],
+  "truth_sha256": "f9810667b61124f70eb7580dae3303e8e249a465c37dfd8281877eea1df3cca6"
+ },
+ {
+  "id": "R_ER_bass_13",
+  "suite": "R",
+  "events": 100,
+  "tags": [
+   "choir",
+   "unison",
+   "bass"
+  ],
+  "truth_sha256": "1236f04e010826510fa7b75839d5ea93f53475dafa59f8a3f6b2f9927ae138d3"
+ },
+ {
+  "id": "R_ER_bass_14",
+  "suite": "R",
+  "events": 89,
+  "tags": [
+   "choir",
+   "unison",
+   "bass"
+  ],
+  "truth_sha256": "b73f225adc21d15df9ae93f7129f5a703e92a9ff1225a31311e5d2d0644b37ae"
+ },
+ {
+  "id": "R_ER_bass_23",
+  "suite": "R",
+  "events": 101,
+  "tags": [
+   "choir",
+   "unison",
+   "bass"
+  ],
+  "truth_sha256": "75202a295e7b791af4cadd1f2674f5cdb2571b909674ec5ab22cc10d4f3bdc6a"
+ },
+ {
+  "id": "R_LI_soprano_12",
+  "suite": "R",
+  "events": 66,
+  "tags": [
+   "choir",
+   "unison",
+   "soprano"
+  ],
+  "truth_sha256": "950f233d5e902d169ccbcf560713ca5659730311a395c6125677c2507845ed3d"
+ },
+ {
+  "id": "R_LI_soprano_13",
+  "suite": "R",
+  "events": 75,
+  "tags": [
+   "choir",
+   "unison",
+   "soprano"
+  ],
+  "truth_sha256": "ad03549cc171a22cf06adc3cdcd913487ee71b1f3649dd78bd214b6a19c98780"
+ },
+ {
+  "id": "R_LI_soprano_14",
+  "suite": "R",
+  "events": 71,
+  "tags": [
+   "choir",
+   "unison",
+   "soprano"
+  ],
+  "truth_sha256": "13c543a4eb33130a416881727dd59882ed7ee8c828abce8e86c3ffa6fd9fd1c2"
+ },
+ {
+  "id": "R_LI_soprano_23",
+  "suite": "R",
+  "events": 83,
+  "tags": [
+   "choir",
+   "unison",
+   "soprano"
+  ],
+  "truth_sha256": "316f1f140386e22cce636a3348dbeb067d9a3556ddb4dc4076a2c864aad01b6f"
+ },
+ {
+  "id": "R_LI_alto_12",
+  "suite": "R",
+  "events": 63,
+  "tags": [
+   "choir",
+   "unison",
+   "alto"
+  ],
+  "truth_sha256": "eba50232df21579daf55c540aa2afcea5dc2c5d3bae142029841f0bf24d1d64d"
+ },
+ {
+  "id": "R_LI_alto_13",
+  "suite": "R",
+  "events": 73,
+  "tags": [
+   "choir",
+   "unison",
+   "alto"
+  ],
+  "truth_sha256": "bfb4e21ce74781d7d78ed7347cadf29454997fe425bfd6dd9ff6ff74e82f22b7"
+ },
+ {
+  "id": "R_LI_alto_14",
+  "suite": "R",
+  "events": 75,
+  "tags": [
+   "choir",
+   "unison",
+   "alto"
+  ],
+  "truth_sha256": "d46ed6558714fe0f83d220cad734811eff93a58ff5f8f21ec1afd97cfe8b8dac"
+ },
+ {
+  "id": "R_LI_alto_23",
+  "suite": "R",
+  "events": 68,
+  "tags": [
+   "choir",
+   "unison",
+   "alto"
+  ],
+  "truth_sha256": "8146d008ee9ddea0b34fdf9aa8f60a39325e2af5b4ca87b14ba737cea3ddc033"
+ },
+ {
+  "id": "R_LI_tenor_12",
+  "suite": "R",
+  "events": 99,
+  "tags": [
+   "choir",
+   "unison",
+   "tenor"
+  ],
+  "truth_sha256": "d70004537feee7de333f5c4c96b47adc63b7655fca010c6b5ce4324a04c08c34"
+ },
+ {
+  "id": "R_LI_tenor_13",
+  "suite": "R",
+  "events": 74,
+  "tags": [
+   "choir",
+   "unison",
+   "tenor"
+  ],
+  "truth_sha256": "ab13cc3ec7e55dd80e47699dafe1a733fc1a06531e66ef350ddd863c517cc634"
+ },
+ {
+  "id": "R_LI_tenor_14",
+  "suite": "R",
+  "events": 80,
+  "tags": [
+   "choir",
+   "unison",
+   "tenor"
+  ],
+  "truth_sha256": "f8e074f11ebf8831a9c5f903bedae1fd576ca34450c63b4ff167831c393cb780"
+ },
+ {
+  "id": "R_LI_tenor_23",
+  "suite": "R",
+  "events": 84,
+  "tags": [
+   "choir",
+   "unison",
+   "tenor"
+  ],
+  "truth_sha256": "e40fb22af01635bc9f394b7fa7c884b3446824d35221e3d0752d230fceedff3e"
+ },
+ {
+  "id": "R_LI_bass_12",
+  "suite": "R",
+  "events": 78,
+  "tags": [
+   "choir",
+   "unison",
+   "bass"
+  ],
+  "truth_sha256": "eb2991254e7873b3438bbbb82dd0d698e12459474bfce9fe4071c85a8ced11ea"
+ },
+ {
+  "id": "R_LI_bass_13",
+  "suite": "R",
+  "events": 101,
+  "tags": [
+   "choir",
+   "unison",
+   "bass"
+  ],
+  "truth_sha256": "fc710e1681d54db3ee883aea5a137fbefd9e25ca39a7f117ccc57fcee4759bc9"
+ },
+ {
+  "id": "R_LI_bass_14",
+  "suite": "R",
+  "events": 72,
+  "tags": [
+   "choir",
+   "unison",
+   "bass"
+  ],
+  "truth_sha256": "9e7e24acff3b26bde6c8c552823bc6202dd8b94ddbbc371bf30bcd19b0577190"
+ },
+ {
+  "id": "R_LI_bass_23",
+  "suite": "R",
+  "events": 107,
+  "tags": [
+   "choir",
+   "unison",
+   "bass"
+  ],
+  "truth_sha256": "acc0d4e03a56ffcd27b5174401f8fecc932f8600eda03fd10440900e59e03d5c"
+ },
+ {
+  "id": "R_ND_soprano_12",
+  "suite": "R",
+  "events": 176,
+  "tags": [
+   "choir",
+   "unison",
+   "soprano"
+  ],
+  "truth_sha256": "8433d24e5a149f0db97cbe703d7b96bfdb47d4f6f0766d1cb6929200a54f06bf"
+ },
+ {
+  "id": "R_ND_soprano_13",
+  "suite": "R",
+  "events": 176,
+  "tags": [
+   "choir",
+   "unison",
+   "soprano"
+  ],
+  "truth_sha256": "cfb477756aba1fc89b3695f18c1af8094e06df72ce257579147b900b72a319c7"
+ },
+ {
+  "id": "R_ND_soprano_14",
+  "suite": "R",
+  "events": 145,
+  "tags": [
+   "choir",
+   "unison",
+   "soprano"
+  ],
+  "truth_sha256": "fd468cf7c73c146ceb68c656c13a0e73e1551e9ece3145ac08579969d3a3b93a"
+ },
+ {
+  "id": "R_ND_soprano_23",
+  "suite": "R",
+  "events": 173,
+  "tags": [
+   "choir",
+   "unison",
+   "soprano"
+  ],
+  "truth_sha256": "f1c621e1b733000d84bc52aef55be4c1ac60d4e0c6b7bc7c948bd846aab47491"
+ },
+ {
+  "id": "R_ND_alto_12",
+  "suite": "R",
+  "events": 127,
+  "tags": [
+   "choir",
+   "unison",
+   "alto"
+  ],
+  "truth_sha256": "66631f646078bc42e52ba4c275049a48ca9c023101b9ddc940799d84bcc9bb7d"
+ },
+ {
+  "id": "R_ND_alto_13",
+  "suite": "R",
+  "events": 156,
+  "tags": [
+   "choir",
+   "unison",
+   "alto"
+  ],
+  "truth_sha256": "943de59cac769b91514464f70b5b10a6c2c24ddecc90b03a31a88fb9ee526cff"
+ },
+ {
+  "id": "R_ND_alto_14",
+  "suite": "R",
+  "events": 174,
+  "tags": [
+   "choir",
+   "unison",
+   "alto"
+  ],
+  "truth_sha256": "29f0c40ff865167fdaec4c97cb785d348475716a08f7d39abd7114f739ab30e2"
+ },
+ {
+  "id": "R_ND_alto_23",
+  "suite": "R",
+  "events": 127,
+  "tags": [
+   "choir",
+   "unison",
+   "alto"
+  ],
+  "truth_sha256": "995c7fd95250ce88fa55999602be9e8c9570b7da8c97db15e77e1ffac8d6e4a4"
+ },
+ {
+  "id": "R_ND_tenor_12",
+  "suite": "R",
+  "events": 146,
+  "tags": [
+   "choir",
+   "unison",
+   "tenor"
+  ],
+  "truth_sha256": "2d60aba06a267331d5a3c92b184f99fec013b5dd6a06b8fed5a4766ec60e5d73"
+ },
+ {
+  "id": "R_ND_tenor_13",
+  "suite": "R",
+  "events": 146,
+  "tags": [
+   "choir",
+   "unison",
+   "tenor"
+  ],
+  "truth_sha256": "9c2b1b2cb141a6d1ffc61eb2c5af16d66bc5c83fc7e7f0e371698811b174e932"
+ },
+ {
+  "id": "R_ND_tenor_14",
+  "suite": "R",
+  "events": 125,
+  "tags": [
+   "choir",
+   "unison",
+   "tenor"
+  ],
+  "truth_sha256": "5bd67a0cb0d9079e328d951d8f4885328ad6045693a1f7adcbd49d29714ee24c"
+ },
+ {
+  "id": "R_ND_tenor_23",
+  "suite": "R",
+  "events": 272,
+  "tags": [
+   "choir",
+   "unison",
+   "tenor"
+  ],
+  "truth_sha256": "9d91f2cdd0a31231a84d1a63e2ee55eb1c8f2d6043bd3abb4d09362e2a6f1634"
+ },
+ {
+  "id": "R_ND_bass_12",
+  "suite": "R",
+  "events": 158,
+  "tags": [
+   "choir",
+   "unison",
+   "bass"
+  ],
+  "truth_sha256": "9741c5e85a95730aae8483baed8b539c8e754a6e10e91909d55764548491c01a"
+ },
+ {
+  "id": "R_ND_bass_13",
+  "suite": "R",
+  "events": 175,
+  "tags": [
+   "choir",
+   "unison",
+   "bass"
+  ],
+  "truth_sha256": "79ad71bc3e287fd11ce9f5083145277025c201938e4310a52ec4f351799933be"
+ },
+ {
+  "id": "R_ND_bass_14",
+  "suite": "R",
+  "events": 129,
+  "tags": [
+   "choir",
+   "unison",
+   "bass"
+  ],
+  "truth_sha256": "6b2356a4d64f5afa4f8b1b06032c9c5a7c07e67b9e478686cb9a60c93123da2d"
+ },
+ {
+  "id": "R_ND_bass_23",
+  "suite": "R",
+  "events": 193,
+  "tags": [
+   "choir",
+   "unison",
+   "bass"
+  ],
+  "truth_sha256": "0fa66cc1a7c147305e66b6bbfece443c5e714ff596b38132de3daf3be597245d"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_14_BackingVox1_t",
+  "suite": "S",
+  "events": 507,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "6aad9e71014afe3d5f41b420404d3ddaac3dfda0b053a470f9d98de15b277ade"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_14_BackingVox1_s",
+  "suite": "S",
+  "events": 500,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "bb9b659111d4c85cb1f931c15a0a90457301533fb9cd3b3953a1120d2e2f9089"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_14_BackingVox1_h",
+  "suite": "S",
+  "events": 507,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "58847ed1082944239720905756daff220cf5565c9c1ca90612e67993ad5077c4"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_15_BackingVox2_t",
+  "suite": "S",
+  "events": 523,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "77f2639fb22cfe878751656f242cfd931db7845d85e253db73fdba340b530749"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_15_BackingVox2_s",
+  "suite": "S",
+  "events": 517,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "0343d44c48b0aadb36ca4b3617ecabb4ba14cfad9424f72c5d239ddb25302f7c"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_15_BackingVox2_h",
+  "suite": "S",
+  "events": 521,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "9e9a46676526110614fa30ce75aa11a5a180ec1f58dde7ff8228dfb1f44cb674"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_16_BackingVox3_t",
+  "suite": "S",
+  "events": 1716,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "668bcfc707c28c28cb900a3f66caa53d542c8465b9870b63a54eeb8b37689003"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_16_BackingVox3_s",
+  "suite": "S",
+  "events": 1705,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "91ccca24a66d4e7365a7a25a8b432d2f8814420aa09cce7d24dc3f676a37ad59"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_16_BackingVox3_h",
+  "suite": "S",
+  "events": 1716,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "72786f179cdad61cfa22db7ee6da7fcc66ffce5fc546ed85f5b1eef5c3560667"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_17_BackingVox4_t",
+  "suite": "S",
+  "events": 1742,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "137f86f8a34193eef141b9ef76eecce44a2af47e8de8bb0f66a88d469198f65b"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_17_BackingVox4_s",
+  "suite": "S",
+  "events": 1735,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "8a49a5b1dd4ec66f1792459f3f212d7c7f7e0d70108ff0cad3ab586048b7c102"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_17_BackingVox4_h",
+  "suite": "S",
+  "events": 1748,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "2e1b82f6d087ed1f4274ce2b8f544cf033e4b47172995a36d9267407bd08c900"
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_13_BackingVox2_t",
+  "suite": "S",
+  "events": 2314,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "cad646e3e6df57f38417ce33c58ffb054ed14b4390542f943323632210a87476"
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_13_BackingVox2_s",
+  "suite": "S",
+  "events": 2294,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "7035552161806b6be2836b75d6fafda9b042b268c9f4fbd8aec816ef8f4925e6"
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_13_BackingVox2_h",
+  "suite": "S",
+  "events": 2304,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "0a6a46add1afb558238fba824772d8148351734d06e59a9b6f154fe1c3d1258d"
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_14_BackingVox3_t",
+  "suite": "S",
+  "events": 1298,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "adb3eadffd6af95cdb494963e6a6861633086368464ac7a0298d3ffbd2326d33"
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_14_BackingVox3_s",
+  "suite": "S",
+  "events": 1264,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "20ff687dc380e169a63239a0b4bf57a2cd4cc1c5c69a4efead369000b2f0ae52"
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_14_BackingVox3_h",
+  "suite": "S",
+  "events": 1278,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "33f17d78d4abd4460e594fdfea59da2c1750767b382f6a85b953f8d867e1172e"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_18_BackingVox1_t",
+  "suite": "S",
+  "events": 247,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "dd068f3da91e4cd4df79dc077864a1910aaef348f42a95f00337830bfab40a83"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_18_BackingVox1_s",
+  "suite": "S",
+  "events": 243,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "02abda6fb1ea25378bd0a463367e7631872a0ccf5f1a8aa7f1e3913c683b5b7a"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_18_BackingVox1_h",
+  "suite": "S",
+  "events": 250,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "fa945a4cf7c1e49a972580396e0fa5a3acc61334306d5844ad326d0d295c5281"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_19_BackingVox1DT_t",
+  "suite": "S",
+  "events": 246,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "0d3f4fb0ab843af7792ec4519508d875dd11974d244fa882d1a905d30215b5bd"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_19_BackingVox1DT_s",
+  "suite": "S",
+  "events": 233,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "eb6b6557471aac94726dd79fd33767aa4de26ee66822d521e55c37b5d19d574d"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_19_BackingVox1DT_h",
+  "suite": "S",
+  "events": 246,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "cc56d1b0f188b82a1c5227d159d2cd475540c48302c4194da38301bbd448bff4"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_20_BackingVox2_t",
+  "suite": "S",
+  "events": 576,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "cab6d1eee6717770f6028faf159fdae8dfd66e6d890d82d5d79328ecc688d780"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_20_BackingVox2_s",
+  "suite": "S",
+  "events": 578,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "a9c815eb39461f44197a04e0d9bc543a698318e23e8fe05142ec50acf6bd1d83"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_20_BackingVox2_h",
+  "suite": "S",
+  "events": 581,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "c2fafc39f550eff1cce9e0044559ac4fb3b724e4fd0bf40867c4fb44512af177"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_21_BackingVox3_t",
+  "suite": "S",
+  "events": 544,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "e68ca2ea802a4f0691314f50c079ffd34470589351b2f6a9bc3c69a7b31eabf3"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_21_BackingVox3_s",
+  "suite": "S",
+  "events": 520,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "d8b7d890f7eb43ea44f43513dd07cfed42e1184dbeaab2447c582f2af491d5d2"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_21_BackingVox3_h",
+  "suite": "S",
+  "events": 528,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "5af5cbe803d52ec3934e1d09250a7b2e2df9b50591a5f7b08475d2941aea9e1d"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_22_BackingVox4_t",
+  "suite": "S",
+  "events": 506,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "4e0f82c9c800bb487588f0217b15a579530263fb1491a39786aa1c53c9d7c5e9"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_22_BackingVox4_s",
+  "suite": "S",
+  "events": 484,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "15022fd0b92fc34d66581c742c2bd4d9a9b25201a99a0d48c3e027dbab30a6d9"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_22_BackingVox4_h",
+  "suite": "S",
+  "events": 504,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "9b5d8ccbc36d4c5c73613607eba7a53d8761aaeb0de33428870882538fdb6c26"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_23_BackingVox5_t",
+  "suite": "S",
+  "events": 532,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "aa546162bca0687177eb7823f75f2020264e38724a8da24bece8eec9f9bbde72"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_23_BackingVox5_s",
+  "suite": "S",
+  "events": 519,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "27239703ff27fc25528a40858400a133486d7e88cf3b6b10b209a0239a13759d"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_23_BackingVox5_h",
+  "suite": "S",
+  "events": 528,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "29988dd4072b8e1ba85eae3e3886df2b4e766cc68cd71bb231a84b447967e9f5"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_19_BackingVox1_t",
+  "suite": "S",
+  "events": 1311,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "ca32f616a27d79362b3682948b3435c4a5ffc8a0d8c600e88555e0779a2001ef"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_19_BackingVox1_s",
+  "suite": "S",
+  "events": 1307,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "7a415cb5bf98e43519f78943a9fe0ced2a31d2f2422b60df7b630f4f9fe21686"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_19_BackingVox1_h",
+  "suite": "S",
+  "events": 1311,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "4ce7eab471f6e0eb94ae834fafa89ae6de3706deef3a42b9218aa8740310aaa3"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_20_BackingVox2_t",
+  "suite": "S",
+  "events": 478,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "0587430fee15782d68f841bb8b2d531a7aea26362673567ac783f45031c6ae39"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_20_BackingVox2_s",
+  "suite": "S",
+  "events": 478,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "fa6810fd687e0765dc54ad66df00ec09f60378a2e3e411ee7f17fadea6631903"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_20_BackingVox2_h",
+  "suite": "S",
+  "events": 478,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "efe2f867bdc3db6f7f46291a619be6851c619952b4319c98063b1fd33ee1d381"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_21_BackingVox2DT_t",
+  "suite": "S",
+  "events": 463,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "c060383479dcc5100d7dfeab1bc7507869acd32d9e8a09e3bcd87f54c5484bd4"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_21_BackingVox2DT_s",
+  "suite": "S",
+  "events": 463,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "3bc236de1d05c3bcbc9ec0ee9d35fd83a40bc1b0ddf73555e97322cb376df2a8"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_21_BackingVox2DT_h",
+  "suite": "S",
+  "events": 463,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "3365ab5729509e6244ca8b88a4c5b968de7572526fb1363c234c987e585baf1d"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_22_BackingVox3_t",
+  "suite": "S",
+  "events": 474,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "866f4eeb7cc280f28460443aa35ef510f5ee8d392937e9b625cbe0f281e63d65"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_22_BackingVox3_s",
+  "suite": "S",
+  "events": 475,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "efff61a3b57c216f0f9cfe67a1e9c09f0683fba06a8afbb604bd9e74c716181d"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_22_BackingVox3_h",
+  "suite": "S",
+  "events": 476,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "93630873a9af52db69e7fef823b9ec31b191e6efc54f67f2c520260c6d2cbd18"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_23_BackingVox3DT_t",
+  "suite": "S",
+  "events": 442,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "7382a50caa09995fef93ab89e901021add4e40733d9a6d5d4a9ef6c5950f47f7"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_23_BackingVox3DT_s",
+  "suite": "S",
+  "events": 442,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "23f3a29f77d4314f9882b6e09c778494507f5da01b77fa8464a2a49b93f66560"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_23_BackingVox3DT_h",
+  "suite": "S",
+  "events": 442,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "b50fdee5585ab0645393ed08d887becb70924b975e3ac5b1b10701b16683f8bb"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_18_BackingVox1_t",
+  "suite": "S",
+  "events": 961,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "c30e23123648c4f1ae9d1a5869666fcd13c777b4b63c03c0bf9136a49a6606ee"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_18_BackingVox1_s",
+  "suite": "S",
+  "events": 958,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "7b29a0138aea871fa2b4c86a77eeb123f8663e29027dc5ba6415b44ce47bc4f7"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_18_BackingVox1_h",
+  "suite": "S",
+  "events": 956,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "7ec805b70c27658e68104f63e49b7df57971ffa54fbc14b2c03ae065a720fdb8"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_19_BackingVox2_t",
+  "suite": "S",
+  "events": 959,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "014db9a5f5b397316fea152f9d4decd688fb8c19d067b4ca67d3ed70018dd749"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_19_BackingVox2_s",
+  "suite": "S",
+  "events": 958,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "59a6eae83b48eb6a834b8cff6c336d0329c7875865a388fc682cfe74b0680eb4"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_19_BackingVox2_h",
+  "suite": "S",
+  "events": 955,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "858112281af26abc95eaf0c8edd0c74199bb7f3c2095f8dc7ed3022ad1aed482"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_20_BackingVox3_t",
+  "suite": "S",
+  "events": 1057,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "65988eaa88432b11bbcc9c71806169db0f70b2234478bcb6f6afb925d663b186"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_20_BackingVox3_s",
+  "suite": "S",
+  "events": 1051,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "3682eec6cccf525c25196fa1aad7353a6f70d74c339f6b87759a622cb6612747"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_20_BackingVox3_h",
+  "suite": "S",
+  "events": 1060,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "ac588fc1f4fe0ab0ac20fb89ff1bc5e26f990c053e9bc9ee2bfaf6c070c8aa4e"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_21_BackingVox4_t",
+  "suite": "S",
+  "events": 1019,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "42aa991e5ae791fb2159f2f1a3e460de0163a679652998b1be3919b3f9e70a13"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_21_BackingVox4_s",
+  "suite": "S",
+  "events": 1021,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "97f886c2cbfdd41666ec54e11809ac9404d75b72b89bdbde38e4cc6ca968da86"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_21_BackingVox4_h",
+  "suite": "S",
+  "events": 1021,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "76eadf6418a0f2de1f5eee454be9024f33de5a0c9024b7361d7d202c8947a87a"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_22_BackingVox5_t",
+  "suite": "S",
+  "events": 984,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "f3fe9031465189d9e2e89db5f6e2493e77fa1421b31a127cc8cb205648f91600"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_22_BackingVox5_s",
+  "suite": "S",
+  "events": 986,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "72960a3c695001e0a37159c7d17f8d988ff3aedf53da092e9793d0693d433050"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_22_BackingVox5_h",
+  "suite": "S",
+  "events": 986,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "8d85f0ed5599c1173022e649880e0d7170848e97b789d2009f26150d474dd4ad"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_23_BackingVox6_t",
+  "suite": "S",
+  "events": 990,
+  "tags": [
+   "pop",
+   "typical"
+  ],
+  "truth_sha256": "f1da7cee582d24459f344638dd784428aefdbeb32865ea18cced8ad466a7da5c"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_23_BackingVox6_s",
+  "suite": "S",
+  "events": 976,
+  "tags": [
+   "pop",
+   "sloppy"
+  ],
+  "truth_sha256": "26ddbafd4efac0353f868a0503dcaf36cb0d959bee5600e0bfbc52b0fd0b57d1"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_23_BackingVox6_h",
+  "suite": "S",
+  "events": 997,
+  "tags": [
+   "pop",
+   "harmony+4"
+  ],
+  "truth_sha256": "39cb624657510b9315000a497e446b73d0b2059e66906656291dffb01fc409ef"
+ },
+ {
+  "id": "S_fury_144_Audio_5_t",
+  "suite": "S",
+  "events": 1709,
+  "tags": [
+   "gang",
+   "typical"
+  ],
+  "truth_sha256": "0be768eba7a5f4c023272ed4b2a3bae747b4c1800a56678dba8d0e1d73fc8caf"
+ },
+ {
+  "id": "S_fury_144_Audio_5_s",
+  "suite": "S",
+  "events": 1710,
+  "tags": [
+   "gang",
+   "sloppy"
+  ],
+  "truth_sha256": "5d170ff8196f3e921ac9dcb22c4262de200267fb80183c42b2b43f769ce06ca8"
+ },
+ {
+  "id": "S_fury_144_Audio_5_h",
+  "suite": "S",
+  "events": 1733,
+  "tags": [
+   "gang",
+   "harmony+4"
+  ],
+  "truth_sha256": "c8648fb8551589fea2f17f791e1d002cf9e5f5402a2484f498ae44a865f16f48"
+ },
+ {
+  "id": "S_fury_152_Audio_10_t",
+  "suite": "S",
+  "events": 1676,
+  "tags": [
+   "gang",
+   "typical"
+  ],
+  "truth_sha256": "7572b6a7f493bdd89b9314a8764b2b8a95fc9ebe55994a73f74643af17209f65"
+ },
+ {
+  "id": "S_fury_152_Audio_10_s",
+  "suite": "S",
+  "events": 1605,
+  "tags": [
+   "gang",
+   "sloppy"
+  ],
+  "truth_sha256": "050d85d889da1ea41beac0dfabc1429d1e6be04706e193c30bd1065348350891"
+ },
+ {
+  "id": "S_fury_152_Audio_10_h",
+  "suite": "S",
+  "events": 1634,
+  "tags": [
+   "gang",
+   "harmony+4"
+  ],
+  "truth_sha256": "77f6b6a1ec2171846aeec8a22bf19ce484c139e904bdb0a110740532f49008e8"
+ },
+ {
+  "id": "S_fury_156_Audio_12_t",
+  "suite": "S",
+  "events": 1706,
+  "tags": [
+   "gang",
+   "typical"
+  ],
+  "truth_sha256": "984bcae2c65b614c2c5c460e87d8484383d7d76862c7f8b529d0ffc93b23b8f7"
+ },
+ {
+  "id": "S_fury_156_Audio_12_s",
+  "suite": "S",
+  "events": 1694,
+  "tags": [
+   "gang",
+   "sloppy"
+  ],
+  "truth_sha256": "331728d8722ef57cbc7c1358addfa6789ff643d10da23b4cac6deb6e93f17147"
+ },
+ {
+  "id": "S_fury_156_Audio_12_h",
+  "suite": "S",
+  "events": 1727,
+  "tags": [
+   "gang",
+   "harmony+4"
+  ],
+  "truth_sha256": "099566441cfcfcea6cd022eb7ca47172f99bea5d61070190daa5e09d684ab5f3"
+ },
+ {
+  "id": "S_fury_160_Audio_13_t",
+  "suite": "S",
+  "events": 1768,
+  "tags": [
+   "gang",
+   "typical"
+  ],
+  "truth_sha256": "d03ddec4ca9aee4b732f000b130bb45cff103d24da34c6b794b84907140c40c2"
+ },
+ {
+  "id": "S_fury_160_Audio_13_s",
+  "suite": "S",
+  "events": 1725,
+  "tags": [
+   "gang",
+   "sloppy"
+  ],
+  "truth_sha256": "0d9909c79ff4eeed297c69c4996e708894fd5733849162f642fed53fb66289f1"
+ },
+ {
+  "id": "S_fury_160_Audio_13_h",
+  "suite": "S",
+  "events": 1767,
+  "tags": [
+   "gang",
+   "harmony+4"
+  ],
+  "truth_sha256": "db52609fef29e711372d6a8a6a7f0936c897382ad08ee873b9215fa9a8cbaa80"
+ },
+ {
+  "id": "S_fury_164_Audio_14_t",
+  "suite": "S",
+  "events": 1741,
+  "tags": [
+   "gang",
+   "typical"
+  ],
+  "truth_sha256": "2eee3d46deccededdef7d42e76bb66d58dc62b5f69326f441de4d8eabbe32f64"
+ },
+ {
+  "id": "S_fury_164_Audio_14_s",
+  "suite": "S",
+  "events": 1737,
+  "tags": [
+   "gang",
+   "sloppy"
+  ],
+  "truth_sha256": "da53ce102e7da85ab05d6d62cb757f31d8a4a0f76dceaa995e5a6930284e8754"
+ },
+ {
+  "id": "S_fury_164_Audio_14_h",
+  "suite": "S",
+  "events": 1757,
+  "tags": [
+   "gang",
+   "harmony+4"
+  ],
+  "truth_sha256": "fdaaa4f60abd7c36b237ec765d0c74579668d1dd87aa575760154854227e387d"
+ },
+ {
+  "id": "S_fury_224_Audio_26_t",
+  "suite": "S",
+  "events": 1644,
+  "tags": [
+   "gang",
+   "typical"
+  ],
+  "truth_sha256": "4444cb0b1ca31eea67180c12d676a0c6a51e048099306a7c9cd6f27349fedec7"
+ },
+ {
+  "id": "S_fury_224_Audio_26_s",
+  "suite": "S",
+  "events": 1597,
+  "tags": [
+   "gang",
+   "sloppy"
+  ],
+  "truth_sha256": "a12e3fd03ed948ac840e90d3c9fe2403ea20b57bd703f8b93ba02acb3d4447b9"
+ },
+ {
+  "id": "S_fury_224_Audio_26_h",
+  "suite": "S",
+  "events": 1635,
+  "tags": [
+   "gang",
+   "harmony+4"
+  ],
+  "truth_sha256": "29856cc22dba1b51396ddc9e121f49ef629525f1a3594bad971894c078640ffd"
+ },
+ {
+  "id": "S_fury_228_Audio_27_t",
+  "suite": "S",
+  "events": 1607,
+  "tags": [
+   "gang",
+   "typical"
+  ],
+  "truth_sha256": "d806c25ed4872e8272fb1784245d6f0ba13cf6df7181df4efde8826d30cd5ccd"
+ },
+ {
+  "id": "S_fury_228_Audio_27_s",
+  "suite": "S",
+  "events": 1582,
+  "tags": [
+   "gang",
+   "sloppy"
+  ],
+  "truth_sha256": "870b39c59da398332b22b9876faf8adda555b759aa1581197e14a13b38d222b2"
+ },
+ {
+  "id": "S_fury_228_Audio_27_h",
+  "suite": "S",
+  "events": 1579,
+  "tags": [
+   "gang",
+   "harmony+4"
+  ],
+  "truth_sha256": "917bfc4d1bc2461af33b914cbe81f0975e2e8c64674b737ff5427ec7fcda53e9"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_14_BackingVox1_o",
+  "suite": "S",
+  "events": 513,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "68a1378914b6215fbbb96ea94c7b379fd1e2e2f72fb815eaafc24e8eafbf110b"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_15_BackingVox2_o",
+  "suite": "S",
+  "events": 522,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "fd15d0617e98f47a6bafd9c58e6c1a7de883150c3d8a138d23459924f41ed688"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_16_BackingVox3_o",
+  "suite": "S",
+  "events": 1712,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "d5838d2f358fb08f21c915cec38476d95db0fc780e3df4a18ff5037f5136b362"
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_17_BackingVox4_o",
+  "suite": "S",
+  "events": 1749,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "c01fe06b70600a529fcabe4ef1f7b357d15b59dd65e54955169e867860ea91a0"
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_13_BackingVox2_o",
+  "suite": "S",
+  "events": 2317,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "933cc904d764b6a77a3a0946bbd27f2bc30bb43e32aceba7ab6314149105ad65"
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_14_BackingVox3_o",
+  "suite": "S",
+  "events": 1288,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "361fb91bca6061a7f4f94ba1c0add93afd6d559c83ea87dc94dd5195c56772f2"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_18_BackingVox1_o",
+  "suite": "S",
+  "events": 244,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "2f76df7e773790a122c279b421b56da2b99da7c6d2bd09bcf27284881cf6bcd4"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_19_BackingVox1DT_o",
+  "suite": "S",
+  "events": 232,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "8a74f367d6956351e817c8b12ba5469b59ec2a044b5aa17f5728083eb577f289"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_20_BackingVox2_o",
+  "suite": "S",
+  "events": 583,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "cb994c14b389d6c45069c5ce935910dbacd472421b8e0504af3ac91239227b4a"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_21_BackingVox3_o",
+  "suite": "S",
+  "events": 534,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "e5caaf8d5245dbe9538f32308d9258ea9c34b5201fb88807bee30a5963737045"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_22_BackingVox4_o",
+  "suite": "S",
+  "events": 504,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "74acb55bb3a30f0aaab570c497d79bce344844e7d2bb4a366e8738ace7d7a91f"
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_23_BackingVox5_o",
+  "suite": "S",
+  "events": 535,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "91936fd4df85f032d80cfc6cc5682518943b7795e21c368f2a92fc968cb210e7"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_19_BackingVox1_o",
+  "suite": "S",
+  "events": 1311,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "fb42c6d31d7a5b5d79c20085f8aa0e46f9bcb442f50d00ca81ddfc075165c52b"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_20_BackingVox2_o",
+  "suite": "S",
+  "events": 478,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "c2b7e2e18f2426cb8f876c345803382545c26998786aca33a562be6d53316d81"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_21_BackingVox2DT_o",
+  "suite": "S",
+  "events": 462,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "20fdf850822be8cfff4398dc60b2019d74557c54279f56dc223f77d7ae1bc063"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_22_BackingVox3_o",
+  "suite": "S",
+  "events": 472,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "5a55de11ef91ee464b3d2d718d3de4221c0f9646e63b7ba7d5612cbd1dc3de21"
+ },
+ {
+  "id": "S_DavidTyo_OhLife_23_BackingVox3DT_o",
+  "suite": "S",
+  "events": 442,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "5ec2507f2576f18622db113b17e5b861796fdbe4b516bd72d7df3fb643c9bbdb"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_18_BackingVox1_o",
+  "suite": "S",
+  "events": 954,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "73bc3cd65050b62e453bfe408f7a2d0c47628996a61a24c93e011edbd0277f7c"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_19_BackingVox2_o",
+  "suite": "S",
+  "events": 957,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "209105b385b3c16a431f5f31fd5f1f9d936d034335466c1496b40e090705cceb"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_20_BackingVox3_o",
+  "suite": "S",
+  "events": 1057,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "fbb7f0062efc8d5d1b920d30b0985deeffe8c7d9941eb399fb8cbdc875ac094c"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_21_BackingVox4_o",
+  "suite": "S",
+  "events": 1024,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "20527600584ac990c324f7bd3ee09a036a77805ef1d3c64a5d3d562ab4055d6f"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_22_BackingVox5_o",
+  "suite": "S",
+  "events": 991,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "324813bddb660c89c038d75d5584c36333120d56be6733307e90dfa9e82f34c5"
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_23_BackingVox6_o",
+  "suite": "S",
+  "events": 995,
+  "tags": [
+   "pop",
+   "octave+12"
+  ],
+  "truth_sha256": "75215ecd04e73ec31e7cf94612d7401e447a255e803270a784eaef2200e3cda9"
+ },
+ {
+  "id": "S_fury_144_Audio_5_o",
+  "suite": "S",
+  "events": 1731,
+  "tags": [
+   "gang",
+   "octave+12"
+  ],
+  "truth_sha256": "d1445a604b0dd84b95cb0992fa2687b1dcfda21e2f56e06e60067e4d743b2539"
+ },
+ {
+  "id": "S_fury_152_Audio_10_o",
+  "suite": "S",
+  "events": 1663,
+  "tags": [
+   "gang",
+   "octave+12"
+  ],
+  "truth_sha256": "fcdb605549ed322d2ff23904532b497dafc1d21154f2d61acce9a72c2c68f32c"
+ },
+ {
+  "id": "S_fury_156_Audio_12_o",
+  "suite": "S",
+  "events": 1708,
+  "tags": [
+   "gang",
+   "octave+12"
+  ],
+  "truth_sha256": "0f5a473f2d9ac3d1f437dca0ecac94c16eb0745c949edc82f9e88ad3137a8d0c"
+ },
+ {
+  "id": "S_fury_160_Audio_13_o",
+  "suite": "S",
+  "events": 1773,
+  "tags": [
+   "gang",
+   "octave+12"
+  ],
+  "truth_sha256": "38f2b61c4c1bd79030e5ec834ac4463afd8a3db1b0a3857c5e7aac3f095817b5"
+ },
+ {
+  "id": "S_fury_164_Audio_14_o",
+  "suite": "S",
+  "events": 1747,
+  "tags": [
+   "gang",
+   "octave+12"
+  ],
+  "truth_sha256": "c935f27ed67e6e630c35b7d83fbc6c4dd30413b72707e445352ba0f169f64c87"
+ },
+ {
+  "id": "S_fury_224_Audio_26_o",
+  "suite": "S",
+  "events": 1648,
+  "tags": [
+   "gang",
+   "octave+12"
+  ],
+  "truth_sha256": "adb42370db0f8acdde32b4ae1031049b8f4c9ad5c01bc524b641d7fd26752290"
+ },
+ {
+  "id": "S_fury_228_Audio_27_o",
+  "suite": "S",
+  "events": 1594,
+  "tags": [
+   "gang",
+   "octave+12"
+  ],
+  "truth_sha256": "af82c311c97846d066a9a07c44b13c0459c6d6d2989f0d085ab9c60671c5cb4c"
+ },
+ {
+  "id": "D_LI_Basses_Take01_B1B2",
+  "suite": "D",
+  "events": 37,
+  "tags": [
+   "dagstuhl",
+   "section",
+   "Basses"
+  ],
+  "truth_sha256": "e38cc93e58248844e3e6b5b0e84ad5e2ac1fae1e2391dafd3d358390ebdfa54c"
+ },
+ {
+  "id": "D_LI_Basses_Take01_B1B4",
+  "suite": "D",
+  "events": 28,
+  "tags": [
+   "dagstuhl",
+   "section",
+   "Basses"
+  ],
+  "truth_sha256": "a342031662af09852be5beca28bb40f395914ad540be17f1d6cdb81723d24b6b"
+ },
+ {
+  "id": "D_LI_Basses_Take02_B1B2",
+  "suite": "D",
+  "events": 38,
+  "tags": [
+   "dagstuhl",
+   "section",
+   "Basses"
+  ],
+  "truth_sha256": "55d44cc8a59b544f092691a5a14673aa00af1020839942cfada51a5b3197768d"
+ },
+ {
+  "id": "D_LI_Basses_Take02_B1B4",
+  "suite": "D",
+  "events": 37,
+  "tags": [
+   "dagstuhl",
+   "section",
+   "Basses"
+  ],
+  "truth_sha256": "6eb5d1167ecc74f0a766270a87bd4f0a11d8f43ddfc0c50e33db0a3277805d94"
+ },
+ {
+  "id": "D_LI_Basses_Take02_B2B4",
+  "suite": "D",
+  "events": 36,
+  "tags": [
+   "dagstuhl",
+   "section",
+   "Basses"
+  ],
+  "truth_sha256": "a42037090bb01869eea86afd3a06f7900e3c73f854587ae9be1e025af70808cc"
+ },
+ {
+  "id": "D_LI_Basses_Take03_B1B2",
+  "suite": "D",
+  "events": 42,
+  "tags": [
+   "dagstuhl",
+   "section",
+   "Basses"
+  ],
+  "truth_sha256": "f6ab55b6cedf8ad51f072f8f00d11295847738bab5220d95f2fe1dbf6614b8d0"
+ },
+ {
+  "id": "D_LI_Basses_Take03_B1B4",
+  "suite": "D",
+  "events": 36,
+  "tags": [
+   "dagstuhl",
+   "section",
+   "Basses"
+  ],
+  "truth_sha256": "bc2dfaca5297f0a07fc985ecd16dbd7e9a4ad42330e124a259f2872d56fa443b"
+ },
+ {
+  "id": "D_LI_Basses_Take03_B2B4",
+  "suite": "D",
+  "events": 40,
+  "tags": [
+   "dagstuhl",
+   "section",
+   "Basses"
+  ],
+  "truth_sha256": "ee1a550a1e9fc2c6752ae37c6ba6b379e214e1985cc2cbfeea8dbb3a3cb8ef54"
+ },
+ {
+  "id": "D_LI_Basses_Take04_B1B2",
+  "suite": "D",
+  "events": 37,
+  "tags": [
+   "dagstuhl",
+   "section",
+   "Basses"
+  ],
+  "truth_sha256": "f6500dc4e1729704566ee96f1560ed3482ee53f18b806da4a54e75919f0d204b"
+ },
+ {
+  "id": "D_LI_Basses_Take04_B1B3",
+  "suite": "D",
+  "events": 46,
+  "tags": [
+   "dagstuhl",
+   "section",
+   "Basses"
+  ],
+  "truth_sha256": "ce19b0099ee99480b164ce29812f833962daf89893ee502232e2fc6f3ad2b576"
+ },
+ {
+  "id": "D_LI_Basses_Take04_B2B3",
+  "suite": "D",
+  "events": 43,
+  "tags": [
+   "dagstuhl",
+   "section",
+   "Basses"
+  ],
+  "truth_sha256": "99d917857e55538aafa6494fc7bd53f6f08c6d409f28c26a61ff618a9ebde375"
+ },
+ {
+  "id": "D_LI_Basses_Take05_B1B3",
+  "suite": "D",
+  "events": 50,
+  "tags": [
+   "dagstuhl",
+   "section",
+   "Basses"
+  ],
+  "truth_sha256": "a5fed152e16d84da3d7a0496f217e42887696f88ddcbd81d1c78a8b41e1ea516"
+ }
+]

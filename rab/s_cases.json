@@ -1,0 +1,1922 @@
+[
+ {
+  "id": "S_Actions_OneMinuteSmile_14_BackingVox1_t",
+  "source": "Actions_OneMinuteSmile/14_BackingVox1",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "68131567271694856032909437907394041737",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_14_BackingVox1_s",
+  "source": "Actions_OneMinuteSmile/14_BackingVox1",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "147624017643675549043499788059150063085",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_14_BackingVox1_h",
+  "source": "Actions_OneMinuteSmile/14_BackingVox1",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "42879108079330736291736377315617975476",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_15_BackingVox2_t",
+  "source": "Actions_OneMinuteSmile/15_BackingVox2",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "172868947921064254804866716767969147965",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_15_BackingVox2_s",
+  "source": "Actions_OneMinuteSmile/15_BackingVox2",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "106416141786875184379987808414972677224",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_15_BackingVox2_h",
+  "source": "Actions_OneMinuteSmile/15_BackingVox2",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "305147545132706623516372864037625819559",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_16_BackingVox3_t",
+  "source": "Actions_OneMinuteSmile/16_BackingVox3",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "106435527487360709605187567339824804618",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_16_BackingVox3_s",
+  "source": "Actions_OneMinuteSmile/16_BackingVox3",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "49037741460345971348106236684234243018",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_16_BackingVox3_h",
+  "source": "Actions_OneMinuteSmile/16_BackingVox3",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "87877071760422214161829756443150239182",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_17_BackingVox4_t",
+  "source": "Actions_OneMinuteSmile/17_BackingVox4",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "19016840306666109444720793892923466015",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_17_BackingVox4_s",
+  "source": "Actions_OneMinuteSmile/17_BackingVox4",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "118632965290739560702673108592806920662",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_17_BackingVox4_h",
+  "source": "Actions_OneMinuteSmile/17_BackingVox4",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "233415524598947309785074999448001989318",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_13_BackingVox2_t",
+  "source": "ButterflyEffect_Fairytale/13_BackingVox2",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "172221873866659468790986108383731373877",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_13_BackingVox2_s",
+  "source": "ButterflyEffect_Fairytale/13_BackingVox2",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "328123529315391344093403748364289230035",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_13_BackingVox2_h",
+  "source": "ButterflyEffect_Fairytale/13_BackingVox2",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "33583375659813477378509555080378798611",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_14_BackingVox3_t",
+  "source": "ButterflyEffect_Fairytale/14_BackingVox3",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "173761116571351272226842869444091596783",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_14_BackingVox3_s",
+  "source": "ButterflyEffect_Fairytale/14_BackingVox3",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "276686343082380753124453233428676158715",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_14_BackingVox3_h",
+  "source": "ButterflyEffect_Fairytale/14_BackingVox3",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "57626130645434367280965594906803621083",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_18_BackingVox1_t",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/18_BackingVox1",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "46718448025635088033751026514684515985",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_18_BackingVox1_s",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/18_BackingVox1",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "5776674854759919230062201924112126949",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_18_BackingVox1_h",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/18_BackingVox1",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "165394793668580220119559886466839071991",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_19_BackingVox1DT_t",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/19_BackingVox1DT",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "101350562358256467207388086938065068713",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_19_BackingVox1DT_s",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/19_BackingVox1DT",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "106356426706553579859089998880825915808",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_19_BackingVox1DT_h",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/19_BackingVox1DT",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "137440303219564482585271690051248614134",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_20_BackingVox2_t",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/20_BackingVox2",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "72464938664874849784567060982344250546",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_20_BackingVox2_s",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/20_BackingVox2",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "215625938319995327375936174741048341256",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_20_BackingVox2_h",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/20_BackingVox2",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "91012343034784163417712808547587306483",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_21_BackingVox3_t",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/21_BackingVox3",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "326637245984982800763070217803524047967",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_21_BackingVox3_s",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/21_BackingVox3",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "182922217997328852107175310939300579614",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_21_BackingVox3_h",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/21_BackingVox3",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "199522638001924485394355025589325279300",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_22_BackingVox4_t",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/22_BackingVox4",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "200793451351860254032756054127926272543",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_22_BackingVox4_s",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/22_BackingVox4",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "229208662366645490990140073684995565648",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_22_BackingVox4_h",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/22_BackingVox4",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "263775140460735347902346907283477864822",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_23_BackingVox5_t",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/23_BackingVox5",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "132264298052864121837958004446453228722",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_23_BackingVox5_s",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/23_BackingVox5",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "122533691176622722514682068431424795403",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_23_BackingVox5_h",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/23_BackingVox5",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "63472606524317842871951369213946258419",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_19_BackingVox1_t",
+  "source": "DavidTyo_OhLife/19_BackingVox1",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "133601428391372852248125466508176163226",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_19_BackingVox1_s",
+  "source": "DavidTyo_OhLife/19_BackingVox1",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "39630756132928439289182519081418476412",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_19_BackingVox1_h",
+  "source": "DavidTyo_OhLife/19_BackingVox1",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "33132311622379335532311445185766240352",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_20_BackingVox2_t",
+  "source": "DavidTyo_OhLife/20_BackingVox2",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "228458308881185550603316047648749854793",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_20_BackingVox2_s",
+  "source": "DavidTyo_OhLife/20_BackingVox2",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "75679169215792975117483596380781819602",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_20_BackingVox2_h",
+  "source": "DavidTyo_OhLife/20_BackingVox2",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "292770735819576927097761088740405351088",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_21_BackingVox2DT_t",
+  "source": "DavidTyo_OhLife/21_BackingVox2DT",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "20719980460723839588654939126520887038",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_21_BackingVox2DT_s",
+  "source": "DavidTyo_OhLife/21_BackingVox2DT",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "1192220043989537919780347083943015402",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_21_BackingVox2DT_h",
+  "source": "DavidTyo_OhLife/21_BackingVox2DT",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "272794968708011404987460346077926515236",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_22_BackingVox3_t",
+  "source": "DavidTyo_OhLife/22_BackingVox3",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "61033810381453252985524191071441087146",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_22_BackingVox3_s",
+  "source": "DavidTyo_OhLife/22_BackingVox3",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "272354650167072351715555061859082787359",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_22_BackingVox3_h",
+  "source": "DavidTyo_OhLife/22_BackingVox3",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "198726384001731391645152662972146700856",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_23_BackingVox3DT_t",
+  "source": "DavidTyo_OhLife/23_BackingVox3DT",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "101673656680963677207066743277741280392",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_23_BackingVox3DT_s",
+  "source": "DavidTyo_OhLife/23_BackingVox3DT",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "69021531514635082481182723847594367789",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_23_BackingVox3DT_h",
+  "source": "DavidTyo_OhLife/23_BackingVox3DT",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "80746238110939155215826455219613602544",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_18_BackingVox1_t",
+  "source": "Fergessen_BackFromTheStart/18_BackingVox1",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "167128623849925281243601092922300844772",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_18_BackingVox1_s",
+  "source": "Fergessen_BackFromTheStart/18_BackingVox1",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "259888410060873559904386477605316220056",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_18_BackingVox1_h",
+  "source": "Fergessen_BackFromTheStart/18_BackingVox1",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "290839196229838851771047498468771676059",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_19_BackingVox2_t",
+  "source": "Fergessen_BackFromTheStart/19_BackingVox2",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "164078184396823350341835682216628243962",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_19_BackingVox2_s",
+  "source": "Fergessen_BackFromTheStart/19_BackingVox2",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "254450980371072165083867613070641982491",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_19_BackingVox2_h",
+  "source": "Fergessen_BackFromTheStart/19_BackingVox2",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "45936262838804403664008141585051348772",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_20_BackingVox3_t",
+  "source": "Fergessen_BackFromTheStart/20_BackingVox3",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "65813641987639976380978746293822429932",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_20_BackingVox3_s",
+  "source": "Fergessen_BackFromTheStart/20_BackingVox3",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "105145457903713276038305000273655361988",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_20_BackingVox3_h",
+  "source": "Fergessen_BackFromTheStart/20_BackingVox3",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "162845061315348353151471979093599120978",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_21_BackingVox4_t",
+  "source": "Fergessen_BackFromTheStart/21_BackingVox4",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "143944955239540918494352928610655279260",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_21_BackingVox4_s",
+  "source": "Fergessen_BackFromTheStart/21_BackingVox4",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "224560968834828196138294456695395570316",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_21_BackingVox4_h",
+  "source": "Fergessen_BackFromTheStart/21_BackingVox4",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "68547571840901703772121446378453337269",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_22_BackingVox5_t",
+  "source": "Fergessen_BackFromTheStart/22_BackingVox5",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "33322330054511784917628767203798599888",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_22_BackingVox5_s",
+  "source": "Fergessen_BackFromTheStart/22_BackingVox5",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "83983500896669494031276392400696864807",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_22_BackingVox5_h",
+  "source": "Fergessen_BackFromTheStart/22_BackingVox5",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "166564865142251982085102600244516652105",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_23_BackingVox6_t",
+  "source": "Fergessen_BackFromTheStart/23_BackingVox6",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "336664815253054243693689605947942889800",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_23_BackingVox6_s",
+  "source": "Fergessen_BackFromTheStart/23_BackingVox6",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "146368586600920242343862189295484510196",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_23_BackingVox6_h",
+  "source": "Fergessen_BackFromTheStart/23_BackingVox6",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "229123369962382353162471279203833632731",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_144_Audio_5_t",
+  "source": "fury/144_Audio_5",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "198684263254042810974444919393605339268",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_144_Audio_5_s",
+  "source": "fury/144_Audio_5",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "58152524458149618707691883635462329623",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_144_Audio_5_h",
+  "source": "fury/144_Audio_5",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "208606379144127528315265884579881255820",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_152_Audio_10_t",
+  "source": "fury/152_Audio_10",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "23029492020634524943165296508295659870",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_152_Audio_10_s",
+  "source": "fury/152_Audio_10",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "145868859653821239877385520695986141817",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_152_Audio_10_h",
+  "source": "fury/152_Audio_10",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "184842264082404508523603779067726045264",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_156_Audio_12_t",
+  "source": "fury/156_Audio_12",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "299076137138753789203948929902538569461",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_156_Audio_12_s",
+  "source": "fury/156_Audio_12",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "5223211131019529346737673400725489085",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_156_Audio_12_h",
+  "source": "fury/156_Audio_12",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "125040438157929485389241691070687071128",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_160_Audio_13_t",
+  "source": "fury/160_Audio_13",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "302875798661748104939686287298835319202",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_160_Audio_13_s",
+  "source": "fury/160_Audio_13",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "21523918340996480501533183850592547278",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_160_Audio_13_h",
+  "source": "fury/160_Audio_13",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "114999576681906937864710880861130354479",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_164_Audio_14_t",
+  "source": "fury/164_Audio_14",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "72235400739751552520729038536166834304",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_164_Audio_14_s",
+  "source": "fury/164_Audio_14",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "207737815505825447200889815821469407319",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_164_Audio_14_h",
+  "source": "fury/164_Audio_14",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "236828711848180002639828182510568091132",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_224_Audio_26_t",
+  "source": "fury/224_Audio_26",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "156334053934356676203911972558562778106",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_224_Audio_26_s",
+  "source": "fury/224_Audio_26",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "200231036442132316589877170130348728370",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_224_Audio_26_h",
+  "source": "fury/224_Audio_26",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "97605788327202800660432899603078388117",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_228_Audio_27_t",
+  "source": "fury/228_Audio_27",
+  "variant": "t",
+  "spread": 0.045,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "319840454984731756858795678521013238324",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_228_Audio_27_s",
+  "source": "fury/228_Audio_27",
+  "variant": "s",
+  "spread": 0.09,
+  "semitones": 0,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "265670600645563696420120925830940925237",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_228_Audio_27_h",
+  "source": "fury/228_Audio_27",
+  "variant": "h",
+  "spread": 0.045,
+  "semitones": 4,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "296154413239549067445506291235815839650",
+    "inc": "306950386964110764321915108463935786421"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_14_BackingVox1_o",
+  "source": "Actions_OneMinuteSmile/14_BackingVox1",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "1416835391538841792917410800590245520",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_15_BackingVox2_o",
+  "source": "Actions_OneMinuteSmile/15_BackingVox2",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "268119176542717121488962559800129436920",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_16_BackingVox3_o",
+  "source": "Actions_OneMinuteSmile/16_BackingVox3",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "47192391507455114408638045069422595102",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Actions_OneMinuteSmile_17_BackingVox4_o",
+  "source": "Actions_OneMinuteSmile/17_BackingVox4",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "130425782050677585302138809679149281347",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_13_BackingVox2_o",
+  "source": "ButterflyEffect_Fairytale/13_BackingVox2",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "103792684821425044827256285964390808607",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_ButterflyEffect_Fairytale_14_BackingVox3_o",
+  "source": "ButterflyEffect_Fairytale/14_BackingVox3",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "201357769960017070039430779599451205299",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_18_BackingVox1_o",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/18_BackingVox1",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "140923931175969561092194730107978264286",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_19_BackingVox1DT_o",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/19_BackingVox1DT",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "4252180884631839960095479125622156864",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_20_BackingVox2_o",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/20_BackingVox2",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "317270025576256730723077069289137477974",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_21_BackingVox3_o",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/21_BackingVox3",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "263923226231123730803581351383416924088",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_22_BackingVox4_o",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/22_BackingVox4",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "223800202872613206500813486226808993701",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_ItsSoEasyToLoveYou_23_BackingVox5_o",
+  "source": "DavidTyo_ItsSoEasyToLoveYou/23_BackingVox5",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "90363514483846315710849706443844004886",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_19_BackingVox1_o",
+  "source": "DavidTyo_OhLife/19_BackingVox1",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "121208597926233290848766745461627219411",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_20_BackingVox2_o",
+  "source": "DavidTyo_OhLife/20_BackingVox2",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "193580124668637004468888510172943831251",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_21_BackingVox2DT_o",
+  "source": "DavidTyo_OhLife/21_BackingVox2DT",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "73993245227583363476393784829577235601",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_22_BackingVox3_o",
+  "source": "DavidTyo_OhLife/22_BackingVox3",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "132813649480094036065931913097997897490",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_DavidTyo_OhLife_23_BackingVox3DT_o",
+  "source": "DavidTyo_OhLife/23_BackingVox3DT",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "212989029558034494428592919639681148479",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_18_BackingVox1_o",
+  "source": "Fergessen_BackFromTheStart/18_BackingVox1",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "136779100069564388421605228082187712449",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_19_BackingVox2_o",
+  "source": "Fergessen_BackFromTheStart/19_BackingVox2",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "5881951613359803275612589820957395661",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_20_BackingVox3_o",
+  "source": "Fergessen_BackFromTheStart/20_BackingVox3",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "192345856471742076528569866777857652824",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_21_BackingVox4_o",
+  "source": "Fergessen_BackFromTheStart/21_BackingVox4",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "234733248670232013793334289284424699529",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_22_BackingVox5_o",
+  "source": "Fergessen_BackFromTheStart/22_BackingVox5",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "205500352244962045793957408560023107999",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_Fergessen_BackFromTheStart_23_BackingVox6_o",
+  "source": "Fergessen_BackFromTheStart/23_BackingVox6",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "230398805423050324507092310080325180338",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_144_Audio_5_o",
+  "source": "fury/144_Audio_5",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "332251105101395693024399743369441710261",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_152_Audio_10_o",
+  "source": "fury/152_Audio_10",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "244817994721558241195626923339226284390",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_156_Audio_12_o",
+  "source": "fury/156_Audio_12",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "180793860594347570319780644639960048522",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_160_Audio_13_o",
+  "source": "fury/160_Audio_13",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "216311438235888610079593914987294507147",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_164_Audio_14_o",
+  "source": "fury/164_Audio_14",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "335547640658001408213850685906129937242",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_224_Audio_26_o",
+  "source": "fury/224_Audio_26",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "230337418132278291655905471960519649675",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ },
+ {
+  "id": "S_fury_228_Audio_27_o",
+  "source": "fury/228_Audio_27",
+  "variant": "o",
+  "spread": 0.045,
+  "semitones": 12,
+  "rng_state": {
+   "bit_generator": "PCG64",
+   "state": {
+    "state": "45707281756865563849005195694948389072",
+    "inc": "87408120995932972403329037743644218171"
+   },
+   "has_uint32": 0,
+   "uinteger": 0
+  }
+ }
+]

@@ -1,0 +1,282 @@
+{
+ "S_fury_144_Audio_5_t": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.704999999999515,
+  "raw_median": 42.9479999999991,
+  "mean": 7.4539409011117845,
+  "raw_mean": 37.34850029256875,
+  "n": 1709
+ },
+ "S_fury_144_Audio_5_s": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.920999999999509,
+  "raw_median": 35.75999999999979,
+  "mean": 8.492307017543851,
+  "raw_mean": 44.78322631578949,
+  "n": 1710
+ },
+ "S_fury_144_Audio_5_h": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.127000000000436,
+  "raw_median": 26.099999999999568,
+  "mean": 8.447930178880538,
+  "raw_mean": 25.795440854010387,
+  "n": 1733
+ },
+ "S_fury_152_Audio_10_t": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.376000000000602,
+  "raw_median": 31.587000000001808,
+  "mean": 5.703288782816245,
+  "raw_mean": 32.710988066825756,
+  "n": 1676
+ },
+ "S_fury_152_Audio_10_s": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.036000000000151,
+  "raw_median": 44.036000000000186,
+  "mean": 6.322980062305331,
+  "raw_mean": 69.1354323987539,
+  "n": 1605
+ },
+ "S_fury_152_Audio_10_h": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 3.6959999999996995,
+  "raw_median": 22.857000000000127,
+  "mean": 6.122425948592412,
+  "raw_mean": 31.271872705018364,
+  "n": 1634
+ },
+ "S_fury_156_Audio_12_t": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 3.9680000000004156,
+  "raw_median": 48.549000000001286,
+  "mean": 6.180552754982411,
+  "raw_mean": 45.17365005861665,
+  "n": 1706
+ },
+ "S_fury_156_Audio_12_s": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 3.6730000000000373,
+  "raw_median": 49.72800000000177,
+  "mean": 5.639607438016518,
+  "raw_mean": 76.6331422668241,
+  "n": 1694
+ },
+ "S_fury_156_Audio_12_h": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 5.237999999998522,
+  "raw_median": 47.16600000000071,
+  "mean": 7.8524360162130735,
+  "raw_mean": 52.35704516502606,
+  "n": 1727
+ },
+ "S_fury_160_Audio_13_t": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 3.3560000000001367,
+  "raw_median": 26.62100000000045,
+  "mean": 5.565820701357468,
+  "raw_mean": 38.50816911764706,
+  "n": 1768
+ },
+ "S_fury_160_Audio_13_s": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.671000000000092,
+  "raw_median": 39.88700000000023,
+  "mean": 7.881632463768156,
+  "raw_mean": 58.78843826086957,
+  "n": 1725
+ },
+ "S_fury_160_Audio_13_h": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.557999999999396,
+  "raw_median": 39.31999999999913,
+  "mean": 7.390526881720439,
+  "raw_mean": 42.095471986417664,
+  "n": 1767
+ },
+ "S_fury_164_Audio_14_t": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 3.9910000000027424,
+  "raw_median": 26.077000000000794,
+  "mean": 6.452161401493406,
+  "raw_mean": 31.60980987937966,
+  "n": 1741
+ },
+ "S_fury_164_Audio_14_s": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.9429999999990315,
+  "raw_median": 62.24500000000077,
+  "mean": 6.87076453655728,
+  "raw_mean": 60.21257109959701,
+  "n": 1737
+ },
+ "S_fury_164_Audio_14_h": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 3.786999999999985,
+  "raw_median": 23.787000000000003,
+  "mean": 7.085180421172443,
+  "raw_mean": 26.197394422310754,
+  "n": 1757
+ },
+ "S_fury_224_Audio_26_t": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 3.855000000001496,
+  "raw_median": 26.213000000000264,
+  "mean": 6.376251824817525,
+  "raw_mean": 30.240807785888073,
+  "n": 1644
+ },
+ "S_fury_224_Audio_26_s": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.830000000000112,
+  "raw_median": 64.28600000000095,
+  "mean": 7.378782091421386,
+  "raw_mean": 67.12755103318722,
+  "n": 1597
+ },
+ "S_fury_224_Audio_26_h": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.399000000000264,
+  "raw_median": 28.594000000001785,
+  "mean": 7.439074617736994,
+  "raw_mean": 35.48734373088684,
+  "n": 1635
+ },
+ "S_fury_228_Audio_27_t": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.444000000000337,
+  "raw_median": 18.54900000000015,
+  "mean": 6.808204729309263,
+  "raw_mean": 24.549489110143124,
+  "n": 1607
+ },
+ "S_fury_228_Audio_27_s": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.898000000000735,
+  "raw_median": 76.1219999999998,
+  "mean": 7.279237673830617,
+  "raw_mean": 96.19334639696588,
+  "n": 1582
+ },
+ "S_fury_228_Audio_27_h": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 3.311000000000064,
+  "raw_median": 34.35399999999866,
+  "mean": 6.267588980367347,
+  "raw_mean": 34.85380303989867,
+  "n": 1579
+ },
+ "S_fury_144_Audio_5_o": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 5.034000000001981,
+  "raw_median": 32.97099999999986,
+  "mean": 9.086766608896605,
+  "raw_mean": 36.644029462738295,
+  "n": 1731
+ },
+ "S_fury_152_Audio_10_o": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 3.1289999999994933,
+  "raw_median": 35.261000000001985,
+  "mean": 6.0645742633794475,
+  "raw_mean": 38.85331028262177,
+  "n": 1663
+ },
+ "S_fury_156_Audio_12_o": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 3.87800000000027,
+  "raw_median": 36.07700000000014,
+  "mean": 7.718837236533958,
+  "raw_mean": 44.21484426229509,
+  "n": 1708
+ },
+ "S_fury_160_Audio_13_o": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.671000000001868,
+  "raw_median": 42.40400000000122,
+  "mean": 7.128655950366594,
+  "raw_mean": 41.612807106598986,
+  "n": 1773
+ },
+ "S_fury_164_Audio_14_o": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 4.785000000000039,
+  "raw_median": 33.22000000000003,
+  "mean": 7.629113909559225,
+  "raw_mean": 31.085917572982254,
+  "n": 1747
+ },
+ "S_fury_224_Audio_26_o": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 5.079000000002054,
+  "raw_median": 21.223999999999243,
+  "mean": 8.293430825242712,
+  "raw_mean": 27.59988470873786,
+  "n": 1648
+ },
+ "S_fury_228_Audio_27_o": {
+  "moved": true,
+  "seconds": null,
+  "cand": null,
+  "median": 5.193000000000225,
+  "raw_median": 26.508000000000198,
+  "mean": 8.050400878293592,
+  "raw_mean": 28.784878920953577,
+  "n": 1594
+ }
+}

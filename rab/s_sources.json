@@ -1,0 +1,318 @@
+[
+ {
+  "id": "Actions_OneMinuteSmile/14_BackingVox1",
+  "kind": "pop",
+  "session": "Actions_OneMinuteSmile",
+  "stem": "14_BackingVox1",
+  "sha256": "b5c972b4fc9dacb72c83458c3bce97337bc1b500fa0b68e09904c10c124ae0ba",
+  "sr": 44100,
+  "seconds": 23.453,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK005/Actions_OneMinuteSmile.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "Actions_OneMinuteSmile/15_BackingVox2",
+  "kind": "pop",
+  "session": "Actions_OneMinuteSmile",
+  "stem": "15_BackingVox2",
+  "sha256": "dd90decf6373a878181656caca0a33cb55f7337b8764396b254346c723fcda91",
+  "sr": 44100,
+  "seconds": 23.453,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK005/Actions_OneMinuteSmile.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "Actions_OneMinuteSmile/16_BackingVox3",
+  "kind": "pop",
+  "session": "Actions_OneMinuteSmile",
+  "stem": "16_BackingVox3",
+  "sha256": "74231854ac124639b8c6d790745b51e39bf00451e29be9daffa0650ebc8abe92",
+  "sr": 44100,
+  "seconds": 23.453,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK005/Actions_OneMinuteSmile.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "Actions_OneMinuteSmile/17_BackingVox4",
+  "kind": "pop",
+  "session": "Actions_OneMinuteSmile",
+  "stem": "17_BackingVox4",
+  "sha256": "3c649b7107ba411379916b15d97c11dfe32bdd5d1305db85d7c78a1c10a4f3a7",
+  "sr": 44100,
+  "seconds": 23.453,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK005/Actions_OneMinuteSmile.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "ButterflyEffect_Fairytale/13_BackingVox2",
+  "kind": "pop",
+  "session": "ButterflyEffect_Fairytale",
+  "stem": "13_BackingVox2",
+  "sha256": "c2931933d96fe0b4a2b8b183e42cb9d504faae024a7d62375480d9d3dbce6d2b",
+  "sr": 44100,
+  "seconds": 45.643,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK008/ButterflyEffect_Fairytale.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "ButterflyEffect_Fairytale/14_BackingVox3",
+  "kind": "pop",
+  "session": "ButterflyEffect_Fairytale",
+  "stem": "14_BackingVox3",
+  "sha256": "8bdf5890aa1b0e6f8f684a3b3f64a10c4e88d97d2efa53c776aec5411238585c",
+  "sr": 44100,
+  "seconds": 36.739,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK008/ButterflyEffect_Fairytale.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "DavidTyo_ItsSoEasyToLoveYou/18_BackingVox1",
+  "kind": "pop",
+  "session": "DavidTyo_ItsSoEasyToLoveYou",
+  "stem": "18_BackingVox1",
+  "sha256": "a1883e08154fc631ffbd5bd1fcc407e19b9deda4e6c31ccd85054c7a0ab2d5ec",
+  "sr": 44100,
+  "seconds": 19.272,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK017/DavidTyo_ItsSoEasyToLoveYou.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "DavidTyo_ItsSoEasyToLoveYou/19_BackingVox1DT",
+  "kind": "pop",
+  "session": "DavidTyo_ItsSoEasyToLoveYou",
+  "stem": "19_BackingVox1DT",
+  "sha256": "7d644fbed73400388c7c7a3aea6974f9f2b89dc762b41876be9bbf00a7b9a72c",
+  "sr": 44100,
+  "seconds": 19.272,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK017/DavidTyo_ItsSoEasyToLoveYou.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "DavidTyo_ItsSoEasyToLoveYou/20_BackingVox2",
+  "kind": "pop",
+  "session": "DavidTyo_ItsSoEasyToLoveYou",
+  "stem": "20_BackingVox2",
+  "sha256": "3495d32b0d52ed8a30d916adee431004899d4df819ed73f00cff7a8df21433ff",
+  "sr": 44100,
+  "seconds": 19.272,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK017/DavidTyo_ItsSoEasyToLoveYou.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "DavidTyo_ItsSoEasyToLoveYou/21_BackingVox3",
+  "kind": "pop",
+  "session": "DavidTyo_ItsSoEasyToLoveYou",
+  "stem": "21_BackingVox3",
+  "sha256": "6902d04ca4bee5b0f76b42e22d9854786c4a95d189a3b7c11825e4186c77b984",
+  "sr": 44100,
+  "seconds": 19.272,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK017/DavidTyo_ItsSoEasyToLoveYou.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "DavidTyo_ItsSoEasyToLoveYou/22_BackingVox4",
+  "kind": "pop",
+  "session": "DavidTyo_ItsSoEasyToLoveYou",
+  "stem": "22_BackingVox4",
+  "sha256": "d45f3788e472da0c0bb4ce73a2a3505c7b9e18ea1169dc1dbe3ec0ffa2cd5b65",
+  "sr": 44100,
+  "seconds": 19.272,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK017/DavidTyo_ItsSoEasyToLoveYou.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "DavidTyo_ItsSoEasyToLoveYou/23_BackingVox5",
+  "kind": "pop",
+  "session": "DavidTyo_ItsSoEasyToLoveYou",
+  "stem": "23_BackingVox5",
+  "sha256": "1e2d113180c707d55efbafe36786604dd2d81d92d35a9373c7b8c179ecc5abf0",
+  "sr": 44100,
+  "seconds": 19.272,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK017/DavidTyo_ItsSoEasyToLoveYou.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "DavidTyo_OhLife/19_BackingVox1",
+  "kind": "pop",
+  "session": "DavidTyo_OhLife",
+  "stem": "19_BackingVox1",
+  "sha256": "5b22ecf06865a29b9642e457de8184814ba18c19d3f39ce6f14e12a851b107e4",
+  "sr": 44100,
+  "seconds": 23.961,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK018/DavidTyo_OhLife.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "DavidTyo_OhLife/20_BackingVox2",
+  "kind": "pop",
+  "session": "DavidTyo_OhLife",
+  "stem": "20_BackingVox2",
+  "sha256": "44bace1ee705d92c5acb32eca9b075f9981cb7ccec7b57a7fba260dba04501a3",
+  "sr": 44100,
+  "seconds": 22.335,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK018/DavidTyo_OhLife.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "DavidTyo_OhLife/21_BackingVox2DT",
+  "kind": "pop",
+  "session": "DavidTyo_OhLife",
+  "stem": "21_BackingVox2DT",
+  "sha256": "ce75a1d06b7aca44d3c13a317eb35e508c6301b91a12bb3ec1aa044b9b82f582",
+  "sr": 44100,
+  "seconds": 22.335,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK018/DavidTyo_OhLife.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "DavidTyo_OhLife/22_BackingVox3",
+  "kind": "pop",
+  "session": "DavidTyo_OhLife",
+  "stem": "22_BackingVox3",
+  "sha256": "084e8c4cecc716f41a778ad9c5231bbf056744f6c2cbe1c8be45f9aeb5bc06b1",
+  "sr": 44100,
+  "seconds": 22.335,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK018/DavidTyo_OhLife.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "DavidTyo_OhLife/23_BackingVox3DT",
+  "kind": "pop",
+  "session": "DavidTyo_OhLife",
+  "stem": "23_BackingVox3DT",
+  "sha256": "5c19f5b02dc28b21319fe951df03ad63ab92686337af26deac422d69911c29c9",
+  "sr": 44100,
+  "seconds": 22.335,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK018/DavidTyo_OhLife.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "Fergessen_BackFromTheStart/18_BackingVox1",
+  "kind": "pop",
+  "session": "Fergessen_BackFromTheStart",
+  "stem": "18_BackingVox1",
+  "sha256": "9b8b8e2afa4d3b5289a8d44cb931e37986167ed3d172e3f502e7fc60fdaeeb3b",
+  "sr": 44100,
+  "seconds": 24.366,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK006/Fergessen_BackFromTheStart.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "Fergessen_BackFromTheStart/19_BackingVox2",
+  "kind": "pop",
+  "session": "Fergessen_BackFromTheStart",
+  "stem": "19_BackingVox2",
+  "sha256": "6540d4a424c05b11d2e96fde579ec367822371f75bfcc2f5e898bbd2f8c6f42e",
+  "sr": 44100,
+  "seconds": 24.366,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK006/Fergessen_BackFromTheStart.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "Fergessen_BackFromTheStart/20_BackingVox3",
+  "kind": "pop",
+  "session": "Fergessen_BackFromTheStart",
+  "stem": "20_BackingVox3",
+  "sha256": "d21b2956ef6f475090d1fbfc087e29aa126642cb589bd56fb2968f30b245e098",
+  "sr": 44100,
+  "seconds": 24.366,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK006/Fergessen_BackFromTheStart.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "Fergessen_BackFromTheStart/21_BackingVox4",
+  "kind": "pop",
+  "session": "Fergessen_BackFromTheStart",
+  "stem": "21_BackingVox4",
+  "sha256": "b2b2fbf293530bce2d96978e5b6de170ea69a96150ee41debb9b1cc40abe7836",
+  "sr": 44100,
+  "seconds": 24.366,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK006/Fergessen_BackFromTheStart.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "Fergessen_BackFromTheStart/22_BackingVox5",
+  "kind": "pop",
+  "session": "Fergessen_BackFromTheStart",
+  "stem": "22_BackingVox5",
+  "sha256": "c6e9fee8f7a11eac6c444234c6624d8739ca8e20d4f51209c415e45c74969dd4",
+  "sr": 44100,
+  "seconds": 24.366,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK006/Fergessen_BackFromTheStart.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "Fergessen_BackFromTheStart/23_BackingVox6",
+  "kind": "pop",
+  "session": "Fergessen_BackFromTheStart",
+  "stem": "23_BackingVox6",
+  "sha256": "324eb9489ce9e43d2e10aee8f39fe717266293665efe06802e2ebe91b5aca627",
+  "sr": 44100,
+  "seconds": 24.366,
+  "download": "https://mtkdata.cambridgemusictechnology.co.uk/MTK006/Fergessen_BackFromTheStart.zip",
+  "licence": "Cambridge-MT multitrack library: not redistributed here; download it from cambridge-mt.com"
+ },
+ {
+  "id": "fury/144_Audio_5",
+  "kind": "gang",
+  "file": "144_Audio_5.wav",
+  "sha256": "e991f0442551c678aa8ba1b143f649c43a437c248c4878db4f271494a773333a",
+  "sr": 44100,
+  "seconds": 24.4,
+  "licence": "CC BY 4.0, (c) Rys Up Audio; included in data/fury"
+ },
+ {
+  "id": "fury/152_Audio_10",
+  "kind": "gang",
+  "file": "152_Audio_10.wav",
+  "sha256": "3762efadd6ed488d7d36b6d198558b81d7f0322d9b48c0441a76c06bef741064",
+  "sr": 44100,
+  "seconds": 24.4,
+  "licence": "CC BY 4.0, (c) Rys Up Audio; included in data/fury"
+ },
+ {
+  "id": "fury/156_Audio_12",
+  "kind": "gang",
+  "file": "156_Audio_12.wav",
+  "sha256": "bb1ce0fe435da8487ff1df3c70ea2d80015427003d7d3beb8e6d6030e3aa42d0",
+  "sr": 44100,
+  "seconds": 24.4,
+  "licence": "CC BY 4.0, (c) Rys Up Audio; included in data/fury"
+ },
+ {
+  "id": "fury/160_Audio_13",
+  "kind": "gang",
+  "file": "160_Audio_13.wav",
+  "sha256": "abe298cd25e72a27d3123338b0900b7c61cf3e07dc55af434c4ee849d91f2557",
+  "sr": 44100,
+  "seconds": 24.4,
+  "licence": "CC BY 4.0, (c) Rys Up Audio; included in data/fury"
+ },
+ {
+  "id": "fury/164_Audio_14",
+  "kind": "gang",
+  "file": "164_Audio_14.wav",
+  "sha256": "c6db197724e1ffa1b6f16045108a1ddbc456b7cb2072c10ee3c3264638839a95",
+  "sr": 44100,
+  "seconds": 24.4,
+  "licence": "CC BY 4.0, (c) Rys Up Audio; included in data/fury"
+ },
+ {
+  "id": "fury/224_Audio_26",
+  "kind": "gang",
+  "file": "224_Audio_26.wav",
+  "sha256": "26f62ecfa23f2ae8e9a50ad11d22ef1f6a3111217f9534222b76f2477b417810",
+  "sr": 44100,
+  "seconds": 24.4,
+  "licence": "CC BY 4.0, (c) Rys Up Audio; included in data/fury"
+ },
+ {
+  "id": "fury/228_Audio_27",
+  "kind": "gang",
+  "file": "228_Audio_27.wav",
+  "sha256": "4e367bec08bc5a947268077bbbf03a1c4411c8e787953ab18891346cbef59024",
+  "sr": 44100,
+  "seconds": 24.4,
+  "licence": "CC BY 4.0, (c) Rys Up Audio; included in data/fury"
+ }
+]

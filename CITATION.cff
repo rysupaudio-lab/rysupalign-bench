@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use RAB or the RysUpAlign learned model, please cite it as below, and cite the datasets the suites are built from (see README)."
+title: "RAB: RysUp Align Bench, an audio-to-audio vocal alignment benchmark, and the RysUpAlign learned alignment model v6"
+authors:
+  - name: "Rys Up Audio"
+    website: "https://rysupaudio.com"
+version: "1.0"
+date-released: "2026-10-08"
+license: MIT
+repository-code: "https://github.com/rysupaudio-lab/rysupalign-bench"
+keywords:
+  - vocal alignment
+  - audio-to-audio alignment
+  - dynamic time warping
+  - singing voice
+  - benchmark

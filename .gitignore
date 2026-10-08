@@ -1,0 +1,8 @@
+cases/
+work/
+models/
+datasets/
+__pycache__/
+*.pyc
+results/*.errors.npz
+.DS_Store
